@@ -15,11 +15,11 @@ GameHacker, Reverse Engineering Enthusiast, Programmer
 # Language Stats
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCHIN000&langs_count=10&theme=gruvbox)](https://github.com/ErickCHIN000)
 
-# Repositories Showcase
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ErickCHIN000&repo=your-repo-name&theme=gruvbox)](https://github.com/ErickCHIN000/your-repo-name)
+# Badge's
+![Badge](https://img.shields.io/badge/Badge-Example-blue?style=for-the-badge&logo=github)
 
-# Wakatime Stats
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=gruvbox)](https://wakatime.com/@your-wakatime-username)
+Top Contributions
+[![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ErickCHIN000&theme=gruvbox)](https://github.com/ErickCHIN000)
 
 <!--
 **ErickCHIN000/ErickCHIN000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
