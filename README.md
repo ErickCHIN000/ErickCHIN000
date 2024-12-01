@@ -15,12 +15,6 @@ GameHacker, Reverse Engineering Enthusiast, Programmer
 # Language Stats
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCHIN000&langs_count=10&theme=gruvbox)](https://github.com/ErickCHIN000)
 
-# Badge's
-![Badge](https://img.shields.io/badge/Badge-Example-blue?style=for-the-badge&logo=github)
-
-Top Contributions
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ErickCHIN000&theme=gruvbox)
-
 <!--
 **ErickCHIN000/ErickCHIN000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
