@@ -6,10 +6,14 @@ GameHacker, Reverse Engineering Enthusiast, Programmer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ErickCHIN000&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCHIN000&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ErickCHIN000&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ErickCHIN000&color=blue)
 
-# W3 Certificates
+# Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ErickCHIN000&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
+# Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErickCHIN000&theme=gruvbox)
 
 
 <!--
