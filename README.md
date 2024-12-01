@@ -19,7 +19,7 @@ GameHacker, Reverse Engineering Enthusiast, Programmer
 ![Badge](https://img.shields.io/badge/Badge-Example-blue?style=for-the-badge&logo=github)
 
 Top Contributions
-[![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ErickCHIN000&theme=gruvbox)](https://github.com/ErickCHIN000)
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ErickCHIN000&theme=gruvbox)
 
 <!--
 **ErickCHIN000/ErickCHIN000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
